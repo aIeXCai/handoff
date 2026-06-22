@@ -64,7 +64,7 @@ Scan the project → Ask the user (3 rounds) → Generate → Review diff → Wr
 ### Install
 
 ```bash
-npx skills install handoff
+npx skills add aIeXCai/handoff
 ```
 
 ### Usage

@@ -64,7 +64,7 @@
 ### 安装
 
 ```bash
-npx skills install handoff
+npx skills add aIeXCai/handoff
 ```
 
 ### 使用
